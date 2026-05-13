@@ -1,0 +1,434 @@
+{
+  "signup_now": "Sign up now",
+  "milk_collection_status": "Milk Collection Status",
+"dairy_operations": "Streamline your dairy operations with tools designed to simplify tracking milk production, rates, and earnings.",
+ "farmer_friendly_interface": "Farmer-Friendly Interface",
+  "milk_tracking": "Track daily milk collections, shifts, and overall quantities with ease, all in one place.",
+   "easy_navigation": "Navigate with ease using a simple and intuitive interface designed for seamless dairy management.",
+   "record_management": "Effortless Record Management",
+   "record_details": "Maintain and access detailed records of milk rates, quantities, and earnings in just a few clicks.",
+   "dairy_asaan_title": "  <strong>Dairy Aasan</strong> Made for <strong>Modern</strong> Farmers",
+      "dairy_business": "Take your <strong>Dairy Business</strong> to the next level!",
+          "dairy_Logo" :"Dairy Aasan",
+           "contact_us": "Contact Us",
+            "login": "Log In",
+            "signup": "Sign Up",
+              "home": "Home",
+              "set_milk_price": "Set Milk Price",
+  "set_price_button": "Set Price",
+  "set_milk_price_text": "Update the milk pricing for farmers based on current market rates.",
+
+  "cow_feed_availability": "Cow Feed Availability",
+  "check_availability_button": "Check Availability",
+  "cow_feed_availability_text": "Manage the stock of cow feed and ensure sufficient availability.",
+
+  "add_farmer_milk_count": "Add Farmer Milk Count",
+  "add_count_button": "Add Count",
+  "add_farmer_milk_count_text": "Farmer Milk Count tracks the total milk supplied by each farmer.",
+
+  "bill_payment": "Bill Payment",
+  "bill_button": "Bill",
+  "bill_payment_text": "Update milk pricing and manage farmer payments.",
+
+  "advance_payment": "Advance Payment",
+  "advance_payment_button": "Advance Payment",
+  "advance_payment_text": "Track and manage early payments to farmers.",
+
+  "farmers_list": "Farmer's List",
+  "list_button": "List",
+  "farmers_list_text": "View and manage all registered farmers.",
+
+  "dairy_data": "Dairy Data",
+  "dairy_data_text": "All Dairy Records store and track dairy activities.",
+  "update_profile": "Update Profile",
+  "logout": "Log Out",
+   
+  "todays_milk_collection": "Today's All Milk Collection",
+  "todays_cow_feed": "Today's All Allocated Cow Feed",
+  "advance_payments": "All Advance Payments",
+  "milk_price_history": "Milk Price History",
+  "milk_collection_date": "Milk Collection As per Date",
+  "cow_feed_date": "Cow Feed Allocation As per Date",
+  "payment_history": "Payment History",
+  "ten_days_milk": "10 Days Milk Collection",
+  "ten_days_feed": "10 Days Cow Feed Allocation",
+  "emi_history": "EMI Transaction History",
+  "feed_stock": "Cow Feed Stock",
+   "hello": "Hello",
+   "welcome_back": "Welcome Back Again.",
+   "language": "Language",
+    "about_title": "About Dairy Aasan",
+  "about_subtitle": "Your trusted platform for seamless and efficient dairy management.",
+  "mission_title": "Our Mission",
+  "mission_text": "At DairyHub, our mission is to empower farmers with modern tools to manage their dairy operations efficiently. We aim to simplify processes, track collections, and maximize productivity, enabling farmers to focus on what truly matters—quality milk production.",
+  "vision_title": "Our Vision",
+  "vision_text": "We envision a future where every farmer has access to cutting-edge technology to optimize their dairy business. By bridging the gap between tradition and innovation, DairyHub strives to create a sustainable and profitable ecosystem for farmers worldwide.",
+  "team_title": "Our Team",
+  "team_text": "Our team is a passionate group of agricultural experts, technologists, and developers dedicated to transforming the dairy industry. We work closely with farmers to understand their challenges and create solutions that drive efficiency and growth.",
+  "contact_title": "Contact Us",
+  "contact_text": "Have questions or suggestions? We’re here to help! Reach out to us at",
+  "contact_email": "support@dairyhub.com",
+   "footer_copy": "Copyright © 2024 by",
+  "footer_rights": "All rights reserved.",
+  "footer_contact_title": "Contact us",
+  "footer_address": "Dairy Aasan, Chhatrapati Complex, 2nd Floor, Barshi, Solapur 431411",
+  "footer_phone": "9834935898",
+  "footer_email": "hello@DairyAasan.com",
+  "footer_account_title": "Account",
+  "footer_create_account": "Create Account",
+  "footer_sign_in": "Sign In",
+  "footer_android_app": "Android App",
+  "footer_ios_app": "iOS App",
+   "cow_feed_transactions": "Cow Feed Transactions",
+  "date": "Date",
+  "feed_name": "Feed Name",
+  "bags": "Bags",
+  "price": "Price",
+  "total_value": "Total Value",
+  "final_total_feed_price": "Final Total CowFeed Price",
+  "final_total_feed_bags": "Final Total CowFeed Bags",
+  "no_transactions_found": "No transactions found.",
+  "error_fetching_data": "Failed to fetch cow feed data.",
+  "error_no_farmer_data": "Error: Farmer data is not available.",
+  
+  "final_total": "Final Total Cow Feed Price:",
+  "final_bags": "Final Total Cow Feed Bags:",
+  "bags_label": "bags",
+  "no_transactions": "No transactions found.",
+  "error_fetch": "Failed to fetch milk collection data.",
+   "select_date": "Select Date",
+  "loading": "Loading...",
+  "search": "Search",
+  "cow_feed_transaction": "Cow Feed Transaction",
+  
+  
+   "milk_transactions": "Milk Transactions",
+  "name": "Name",
+ 
+  "fat": "Fat",
+  
+  "liters": "Liters",
+  
+  "final_total_milk_price": "Final Total Milk Price:",
+  "final_total_milk_count": "Final Total Milk Count:",
+  "liters_label": "Liters",
+  
+
+
+
+
+    "from_date": "From Date",
+  "to_date": "To Date",
+  "find": "Find",
+
+  "shift": "Shift",
+
+
+   
+  "final_total_cowfeed_price": "Final Total CowFeed Price:",
+  "final_total_cowfeed_bags": "Final Total CowFeed bags:",
+
+
+  
+  "payment_date": "Payment Date",
+  "amount": "Amount",
+
+   "milk_rates_history": "Milk Rates History",
+  
+  "failed_fetch": "Failed to fetch milk collection data.",
+
+   
+  "milk_collection": "Milk Collection",
+ 
+  "total_price": "Total Price",
+
+   "emi_transaction": "EMI Transaction",
+   
+    "installment": "Installment",
+    "emi": "EMI",
+    "total_paid": "Total Paid",
+    "remaining": "Remaining",
+
+
+    
+    "allocated_date": "Allocated Date",
+   
+    "expire_date": "Expire Date",
+
+
+
+
+    "total_milk": "Total Milk",
+    "total_milk_price": "Total Milk Price",
+   
+    "no_data": "No milk data available.",
+    "no_data_date": "No data found for this date.",
+
+     "todays_milk_count": "Today's Milk Count",
+
+
+       
+    "total_cowfeed_bags": "Total CowFeed Bags",
+    "total_cowfeed_price": "Total CowFeed Price",
+    "farmer_name": "Farmer Name",
+    "cow_feed_name": "Cow Feed Name",
+    
+    "allocated_bags": "Allocated Bags",
+
+
+
+     
+    "cowfeed_transactions": "CowFeed Transactions",
+   
+    "cowfeed_name": "CowFeed Name",
+
+
+    
+    "total_bill": "Total Bill",
+    
+    "no_payment_history": "No Payment History.",
+
+   
+    "no_milk_price_history": "No Milk Price History.",
+
+     "emi_transaction_history": "Payment Transaction History",
+  
+    "emi_paid_date": "Emi Paid Date",
+    "emi_price": "Emi Price",
+    "emi_expire_date": "Emi Expire Date",
+
+
+   
+    "cow_feed_allocation": "Cow Feed allocation",
+  
+    "no_cowfeed_data": "No cowFeed Transaction data available.",
+
+
+    "final_count": "Final Total Milk Count",
+
+
+      "stock": "Stock",
+   
+    "update_stock": "Update Stock",
+   
+    "add_cowfeed": "Please add cow feed data.",
+     "all_advance_payments": "All Advance Payments",
+  "advance": "Advance",
+
+  "no_records_found": "No records found.",
+
+
+
+  "error_farmer_data": "Error: Farmer data is not available.",
+
+  "no_farmer_data": "Error: Farmer data is not available.",
+
+
+ 
+  "milk_rate": "Milk Rate",
+ 
+  "edit_milk_price": "Edit Milk Price",
+  "fill_all_fields": "Please fill out all fields.",
+  "failed_set_price": "Failed to set milk price.",
+  "failed_edit_price": "Failed to edit milk price.",
+
+
+
+   "title": "Fill this form for adding a new Farmer",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter Name",
+    "phoneLabel": "Mobile Number",
+    "phonePlaceholder": "Enter Mobile Number",
+    "emailLabel": "Email Id",
+    "emailPlaceholder": "Enter Email Id",
+    "passwordLabel": "Set Password",
+    "passwordPlaceholder": "Enter Password",
+    "roleLabel": "Select Role",
+    "roleOption": "Farmer",
+    "alreadyAccount": "Already Have an Account?",
+    "submitBtn": "Add Farmer",
+    "errorMsg": "Something went wrong. Please try again.",
+
+
+      "select_farmer": "Select Farmer",
+    "select_shift": "Select Shift",
+    "morning": "Morning",
+    "evening": "Evening",
+   
+    "milk_in_liters": "Milk In Liters",
+    
+    "add_data": "Add Data",
+    "please_fill": "Please fill out all fields.",
+    "added_success": "Milk count added successfully.",
+    "error_fetch_price": "Error fetching price",
+    "something_wrong": "Something went wrong. Please try again.",
+
+
+
+     "titleCowFeed": "Fill this form for adding a new CowFeed",
+  "cowFeedNameLabel": "CowFeed Name",
+  "cowFeedNamePlaceholder": "Enter CowFeed Name",
+  "cowFeedStockLabel": "CowFeed Stock",
+  "cowFeedStockPlaceholder": "Enter Stock Quantity",
+  "cowFeedPriceLabel": "CowFeed Price",
+  "cowFeedPricePlaceholder": "Enter Price per Unit",
+  "submitBtnCowFeed": "Add new CowFeed Stock",
+
+
+   "fillAllFields": "Please fill out all fields.",
+ 
+  "selectFarmer": "Select Farmer",
+  "selectFarmerLabel": "Select Farmer",
+  "advanceAmountPlaceholder": "Enter Advance Amount",
+  "advanceAmountLabel": "Advance Amount",
+  "dateLabel": "Date",
+  "yearPlaceholder": "Enter Year",
+  "yearLabel": "Year",
+  "monthlyEmiPlaceholder": "Monthly EMI",
+  "monthlyEmiLabel": "Monthly EMI",
+  "emiExpiryDateLabel": "EMI Expiry Date",
+  "addDataBtn": "Add Data",
+
+  "cowFeedAllocatedSuccess": "Cow feed allocation added successfully.",
+ 
+  "selectCowFeed": "Select Cow Feed",
+  "selectCowFeedLabel": "Select Cow Feed",
+ 
+  "pricePerBagLabel": "Price per Bag (₹)",
+  "allocatedBagsLabel": "Allocated Bags",
+  "totalPriceLabel": "Total Price (₹)",
+  "allocateCowFeedBtn": "Allocate Cow Feed",
+
+
+   "checkFeedAvailability": "Check The Feed Availability Here",
+  "addNewCowFeed": "Add new CowFeed",
+  "allocateCowFeed": "Allocate CowFeed",
+
+   
+  "selectShift": "Select Shift",
+ 
+  "milkRateLabel": "Milk Rate",
+  "milkRatePlaceholder": "Enter Milk Rate",
+  "milkLitersLabel": "Milk In Liters",
+  "milkLitersPlaceholder": "Enter Milk In Liters",
+ 
+  "failedFetchUsers": "Failed to fetch users.",
+  "failedSubmit": "Failed to submit data.",
+
+
+    "welcomeBack": "Welcome Back Again.",
+
+     "addFarmer": "Add Farmer",
+
+       "invalid_farmer_index": "Invalid Farmer Index!",
+  "farmer_details": "Farmer Details",
+  "todays_all_milk_collection": "Today's All Milk Collection",
+  "todays_all_allocated_cow_feed": "Today's All Allocated Cow Feed",
+
+   "signup_heading": "Hey User, Fill the Signup Form Below",
+  
+  "mobile_number": "Mobile Number",
+  "email": "Email Id",
+  "password": "Set Password",
+  "select_role": "Select Role",
+  "dairy_owner": "Dairy Owner",
+  "already_account": "Already Have an Account?",
+  "sign_up": "Sign Up",
+  "error_try_again": "Something went wrong. Please try again.",
+
+   "update_cowfeed_stock": "Update CowFeed Stock",
+  
+  "cowfeed_stock": "CowFeed Stock",
+  "cowfeed_price": "CowFeed Price",
+
+
+   
+  "otp": "OTP",
+  "send_otp": "Send OTP",
+  
+  "close": "Close",
+
+ 
+  "forgot_password": "Forgotten Password?",
+  
+  "or": "OR",
+  "login_with_otp": "Log in with OTP",
+
+
+  
+  "todays_cowfeed": "Today's All CowFeed",
+
+
+  
+  "fromDateLabel": "From Date",
+  "toDateLabel": "To Date",
+  "makeTransactionBill": "Make Transaction Bill",
+  "makePaymentBtn": "Make Payment",
+  "sendMailBtn": "Send Mail",
+  "farmerNameLabel": "Farmer Name",
+  "transactionReport": "Transaction Report from",
+  "to": "to",
+  "milkTransactionsLabel": "Milk Transactions",
+  "cowFeedTransactionsLabel": "Cow Feed Transactions",
+  "emiTransactionLabel": "EMI Transactions",
+ 
+  "fatLabel": "Fat",
+  "priceLabel": "Price",
+  "litersLabel": "Liters",
+  "totalValueLabel": "Total Value",
+  "feedNameLabel": "Feed Name",
+  "bagsLabel": "Bags",
+  "installmentLabel": "Installment",
+  "emiLabel": "EMI",
+  "totalPaidLabel": "Total Paid",
+  "remainingLabel": "Remaining",
+  "finalTotalMilkPrice": "Final Total Milk Price",
+  "finalTotalCowFeedPrice": "Final Total Cow Feed Price",
+  "finalValueLabel": "Final Value",
+   "final_value": "Final Value",
+  "price_according_fat": "Price According to Fat"
+ 
+  
+
+  
+ 
+ 
+  
+  
+
+
+   
+
+
+ 
+
+
+
+
+
+    
+   
+
+
+
+   
+   
+  
+   
+   
+
+
+
+    
+   
+ 
+  
+ 
+  
+
+
+  
+ 
+
+
+}

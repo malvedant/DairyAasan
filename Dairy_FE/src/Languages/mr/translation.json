@@ -1,0 +1,375 @@
+{
+  "signup_now": "आत्ता साइन अप करा",
+   "milk_collection_status": "दूध संकलन स्थिती",
+  "milk_tracking": "दैनिक दूध संकलन, पाळ्या आणि एकूण प्रमाण सहजपणे एका ठिकाणी ट्रॅक करा.",
+"dairy_operations": "दूध उत्पादन, दर आणि कमाईचे ट्रॅकिंग सुलभ करणाऱ्या साधनांसह तुमचे डेअरी ऑपरेशन्स अधिक सोपे करा.",
+"farmer_friendly_interface": "शेतकरी-मैत्रीपूर्ण इंटरफेस",
+ "easy_navigation": "साधे आणि सहज समजणारे इंटरफेस वापरून सहजपणे नेव्हिगेट करा, जे अखंड डेअरी व्यवस्थापनासाठी डिझाइन केलेले आहे.",
+  "record_management": "सुलभ नोंद व्यवस्थापन",
+   "record_details": "दूधाचे दर, प्रमाण आणि कमाईचे तपशीलवार नोंदी काही क्लिकमध्ये सांभाळा आणि पहा.",
+    "dairy_asaan_title": "<strong>डेअरी आसान</strong> आजच्या <strong>आधुनिक शेतकऱ्यांसाठी</strong>!",
+    "dairy_business": "तुमचा <strong>डेअरी व्यवसाय</strong> पुढील पातळीवर न्या!",
+     "dairy_Logo": "डेअरी आसान",
+      "contact_us": "संपर्क साधा",
+      "login": "लॉग इन",
+      "signup": "साइन अप ",
+      "home": "मुख्यपृष्ठ",
+       "set_milk_price": "दुधाचे दर ठरवा",
+  "set_price_button": "दर ठरवा",
+  "set_milk_price_text": "सध्याच्या बाजारभावानुसार शेतकऱ्यांसाठी दुधाचे दर अपडेट करा.",
+
+  "cow_feed_availability": "गायींच्या खाद्याची उपलब्धता",
+  "check_availability_button": "उपलब्धता तपासा",
+  "cow_feed_availability_text": "गायींच्या खाद्याचा साठा व्यवस्थापित करा आणि पुरेशी उपलब्धता सुनिश्चित करा.",
+
+  "add_farmer_milk_count": "शेतकऱ्यांचा दूध आकडा जोडा",
+  "add_count_button": "आकडा जोडा",
+  "add_farmer_milk_count_text": "प्रत्येक शेतकऱ्याने दिलेल्या एकूण दुधाचे निरीक्षण करा.",
+
+  "bill_payment": "बिल पेमेंट",
+  "bill_button": "बिल",
+  "bill_payment_text": "दुधाचे दर अपडेट करा आणि शेतकऱ्यांचे पेमेंट व्यवस्थापित करा.",
+
+  "advance_payment": "अग्रिम पेमेंट",
+  "advance_payment_button": "अग्रिम पेमेंट",
+  "advance_payment_text": "शेतकऱ्यांना दिलेली आगाऊ देयके व्यवस्थापित करा.",
+
+  "farmers_list": "शेतकऱ्यांची यादी",
+  "list_button": "यादी",
+  "farmers_list_text": "सर्व नोंदणीकृत शेतकऱ्यांना पहा आणि व्यवस्थापित करा.",
+
+  "dairy_data": "डेअरी डेटा",
+  "dairy_data_text": "सर्व डेअरी क्रियाकलापांचे रेकॉर्ड जतन आणि ट्रॅक करा.",
+  "update_profile": "प्रोफ़ाइल अपडेट करा",
+  "logout": "लॉग आउट",
+
+   
+  "todays_milk_collection": "आजचे सर्व दूध संकलन",
+  "todays_cow_feed": "आजचे चारा वाटप",
+  "advance_payments": "सर्व आगाऊ देयके",
+  "milk_price_history": "दूध दर इतिहास",
+  "milk_collection_date": "दिनांकानुसार दूध संकलन",
+  "cow_feed_date": "दिनांकानुसार चारा वाटप",
+  "payment_history": "देयक इतिहास",
+  "ten_days_milk": "10 दिवसांचे दूध संकलन",
+  "ten_days_feed": "10 दिवसांचे चारा वाटप",
+  "emi_history": "ईएमआय व्यवहार इतिहास",
+  "feed_stock": "चारा साठा",
+    "hello": "नमस्कार",
+    "welcome_back": "पुन्हा स्वागत आहे.",
+     "language": "भाषा",
+     "about_title": "डेअरी आसान बद्दल",
+  "about_subtitle": "तुमच्या डेअरी व्यवस्थापनाला सुलभ आणि कार्यक्षम बनवणारे तुमचे विश्वासू व्यासपीठ.",
+  "mission_title": "आमचे ध्येय",
+  "mission_text": "DairyHub मध्ये आमचे ध्येय शेतकऱ्यांना आधुनिक साधनांद्वारे सक्षम बनवणे आहे जेणेकरून ते त्यांचे डेअरी संचालन कार्यक्षमतेने व्यवस्थापित करू शकतील.",
+  "vision_title": "आमचे दृष्टिकोन",
+  "vision_text": "आम्ही अशा भविष्यासाठी प्रयत्नशील आहोत जिथे प्रत्येक शेतकऱ्याला अत्याधुनिक तंत्रज्ञानाची उपलब्धता असेल. DairyHub परंपरा आणि नवोपक्रम यांच्यातील दरी कमी करून एक शाश्वत आणि फायदेशीर डेअरी पर्यावरण निर्माण करण्याचे उद्दिष्ट ठेवते.",
+  "team_title": "आमची टीम",
+  "team_text": "आमची टीम कृषी तज्ञ, तंत्रज्ञ आणि विकसक यांचा एक उत्साही गट आहे जो डेअरी उद्योगाचे रूपांतर करण्यासाठी समर्पित आहे.",
+  "contact_title": "संपर्क करा",
+  "contact_text": "काही प्रश्न किंवा सूचना आहेत का? आम्ही तुमच्या मदतीसाठी येथे आहोत! आमच्याशी संपर्क साधा:",
+  "contact_email": "support@dairyhub.com",
+  "footer_copy": "कॉपीराइट © 2024 द्वारे",
+  "footer_rights": "सर्व हक्क राखीव.",
+  "footer_contact_title": "आमच्याशी संपर्क करा",
+  "footer_address": "डेअरी आसान, छत्रपती कॉम्प्लेक्स, दुसरा मजला, बार्शी, सोलापूर 431411",
+  "footer_phone": "9834935898",
+  "footer_email": "hello@DairyAasan.com",
+  "footer_account_title": "खाते",
+  "footer_create_account": "खाते तयार करा",
+  "footer_sign_in": "लॉगिन करा",
+  "footer_android_app": "अँड्रॉइड अ‍ॅप",
+  "footer_ios_app": "iOS अ‍ॅप",
+    "cow_feed_transactions": "गाईच्या खाद्याच्या व्यवहार",
+  "date": "तारीख",
+  "feed_name": "खाद्याचे नाव",
+  "bags": "गोण्या",
+  "price": "किंमत",
+  "total_value": "एकूण रक्कम",
+  "final_total_feed_price": "अंतिम एकूण खाद्य किंमत",
+  "final_total_feed_bags": "अंतिम एकूण खाद्य गोण्या",
+  "no_transactions_found": "कोणतेही व्यवहार आढळले नाहीत.",
+  "error_fetching_data": "गाईच्या खाद्याचा डेटा मिळवण्यात अयशस्वी.",
+  "error_no_farmer_data": "त्रुटी: शेतकऱ्याचा डेटा उपलब्ध नाही.",
+  
+  "final_total": "अंतिम एकूण चारा किंमत:",
+  "final_bags": "अंतिम एकूण चारा पोती:",
+  "bags_label": "पोते",
+  "no_transactions": "कोणतेही व्यवहार आढळले नाहीत.",
+  "error_fetch": "दूध गोळा करण्याची माहिती मिळवण्यात अयशस्वी.",
+  "name": "नाव",
+   "milk_transactions": "दूध व्यवहार",
+  
+  "fat": "फॅट",
+  
+  "liters": "लीटर",
+ 
+  "final_total_milk_price": "अंतिम एकूण दूध किंमत:",
+  "final_total_milk_count": "अंतिम एकूण दूध प्रमाण:",
+  "liters_label": "लीटर",
+
+   "from_date": "सुरू करण्याची तारीख",
+  "to_date": "समाप्तीची तारीख",
+  "find": "शोधा",
+  
+  "shift": "शिफ्ट",
+   "final_total_cowfeed_price": "अंतिम एकूण चारा किंमत:",
+  "final_total_cowfeed_bags": "अंतिम एकूण चारा बॅग:",
+   "payment_date": "पेमेंट तारीख",
+  "amount": "रक्कम",
+    "milk_rates_history": "दुधाचे दर इतिहास",
+  
+  "failed_fetch": "दुध गोळा करण्याची माहिती मिळवण्यात अयशस्वी.",
+
+
+   "select_date": "तारीख निवडा",
+    "search": "शोधा",
+    "loading": "लोड होत आहे...",
+    "milk_collection": "दुध संकलन",
+ 
+    "total_price": "एकूण किंमत",
+
+     "emi_transaction": "ईएमआय व्यवहार",
+   
+    "installment": "हप्ता",
+    "emi": "ईएमआय",
+    "total_paid": "एकूण भरले",
+    "remaining": "उर्वरित",
+
+     "allocated_date": "वितरित तारीख",
+  
+    "expire_date": "समाप्तीची तारीख",
+
+
+    
+    "total_milk": "एकूण दूध",
+    "total_milk_price": "एकूण दूध किंमत",
+    
+    "no_data": "कोणतेही दुध डेटा उपलब्ध नाही.",
+    "no_data_date": "या तारखेसाठी डेटा आढळला नाही.",
+
+
+     "todays_milk_count": "आजचे दूध मोजणी",
+
+
+
+     
+    "total_cowfeed_bags": "एकूण गोठ्याचे खाद्य बॅग",
+    "total_cowfeed_price": "एकूण गोठ्याचे खाद्य किंमत",
+    "farmer_name": "शेतकऱ्याचे नाव",
+    "cow_feed_name": "गोठ्याचे खाद्य नाव",
+  
+    "allocated_bags": "वाटप केलेल्या बॅग",
+
+
+
+   
+    "cowfeed_transactions": "गाईचे खुराक व्यवहार",
+   
+    "cowfeed_name": "खुराक नाव",
+
+
+     "total_bill": "एकूण बिल",
+    
+    "no_payment_history": "कोणताही देयक इतिहास उपलब्ध नाही.",
+
+     "no_milk_price_history": "कोणताही दूध किमतीचा इतिहास उपलब्ध नाही.",
+
+       "emi_transaction_history": "कर्ज हप्त्यांचा व्यवहार इतिहास",
+ 
+    "emi_paid_date": "हप्त्याची तारीख",
+    "emi_price": "हप्त्याची रक्कम",
+    "emi_expire_date": "हप्त्याची समाप्ती तारीख",
+
+      
+    "cow_feed_allocation": "गाईचे अन्न वाटप",
+   
+    "no_cowfeed_data": "गाईच्या अन्न व्यवहाराचे डेटा उपलब्ध नाही.",
+      "final_count": "अंतिम एकूण दूध प्रमाण",
+
+       "stock": "साठा",
+  
+    "update_stock": "साठा अद्यतनित करा",
+   
+    "add_cowfeed": "कृपया गाय खाद्य डेटा जोडा.",
+
+
+     "all_advance_payments": "सर्व आगाऊ देयके",
+  "advance": "आगाऊ",
+ 
+  "no_records_found": "कोणतेही नोंदी सापडल्या नाहीत.",
+
+   "error_farmer_data": "त्रुटी: शेतकऱ्याचा डेटा उपलब्ध नाही.",
+
+     "no_farmer_data": "त्रुटी: शेतकऱ्याचा डेटा उपलब्ध नाही.",
+
+
+
+  "milk_rate": "दूध दर",
+
+  "edit_milk_price": "दूध दर संपादित करा",
+  "fill_all_fields": "कृपया सर्व फील्ड भरा.",
+  "failed_set_price": "दूध दर सेट करण्यात अयशस्वी.",
+  "failed_edit_price": "दूध दर संपादित करण्यात अयशस्वी.",
+
+
+    "title": "नवीन शेतकरी जोडण्यासाठी हा फॉर्म भरा",
+    "nameLabel": "नाव",
+    "namePlaceholder": "नाव टाका",
+    "phoneLabel": "मोबाईल क्रमांक",
+    "phonePlaceholder": "मोबाईल क्रमांक टाका",
+    "emailLabel": "ईमेल आयडी",
+    "emailPlaceholder": "ईमेल आयडी टाका",
+    "passwordLabel": "पासवर्ड सेट करा",
+    "passwordPlaceholder": "पासवर्ड टाका",
+    "roleLabel": "भूमिका निवडा",
+    "roleOption": "शेतकरी",
+    "alreadyAccount": "आधीच खाते आहे का?",
+    "submitBtn": "शेतकरी जोडा",
+    "errorMsg": "काहीतरी चूक झाली. कृपया पुन्हा प्रयत्न करा.",
+
+
+        "select_farmer": "शेतकरी निवडा",
+    "select_shift": "शिफ्ट निवडा",
+    "morning": "सकाळ",
+    "evening": "संध्याकाळ",
+   
+    "milk_in_liters": "दूध (लिटर मध्ये)",
+    
+    "add_data": "डेटा जोडा",
+    "please_fill": "कृपया सर्व फील्ड भरा.",
+    "added_success": "दूधाची नोंद यशस्वीरित्या जोडली गेली.",
+    "error_fetch_price": "दर मिळवण्यात त्रुटी",
+    "something_wrong": "काहीतरी चुकले. कृपया पुन्हा प्रयत्न करा.",
+
+
+      "titleCowFeed": "नवीन गाय-खुराक जोडण्यासाठी हा फॉर्म भरा",
+  "cowFeedNameLabel": "गाय-खुराकनाव",
+  "cowFeedNamePlaceholder": "गाय-खुराकनाव टाका",
+  "cowFeedStockLabel": "गाय-खुराक स्टॉक",
+  "cowFeedStockPlaceholder": "स्टॉकची मात्रा टाका",
+  "cowFeedPriceLabel": "गाय-खुराक किंमत",
+  "cowFeedPricePlaceholder": "प्रति युनिट किंमत टाका",
+  "submitBtnCowFeed": "नवीन गाय-खुराकस्टॉक जोडा",
+
+   "fillAllFields": "कृपया सर्व फील्ड भरा.",
+ 
+  "selectFarmer": "शेतकरी निवडा",
+  "selectFarmerLabel": "शेतकरी निवडा",
+  "advanceAmountPlaceholder": "अॅडव्हान्स रक्कम प्रविष्ट करा",
+  "advanceAmountLabel": "अॅडव्हान्स रक्कम",
+  "dateLabel": "दिनांक",
+  "yearPlaceholder": "वर्ष प्रविष्ट करा",
+  "yearLabel": "वर्ष",
+  "monthlyEmiPlaceholder": "मासिक ईएमआय",
+  "monthlyEmiLabel": "मासिक ईएमआय",
+  "emiExpiryDateLabel": "ईएमआय समाप्ती तारीख",
+  "addDataBtn": "डेटा जोडा",
+
+
+  
+  "cowFeedAllocatedSuccess": "गाय-खुराक वाटप यशस्वीरीत्या जोडले गेले.",
+ 
+  "selectCowFeed": "गाय-खुराक निवडा",
+  "selectCowFeedLabel": "गाय-खुराक निवडा",
+  
+  "pricePerBagLabel": "प्रति पिशवी किंमत (₹)",
+  "allocatedBagsLabel": "वाटप केलेल्या पिशव्या",
+  "totalPriceLabel": "एकूण किंमत (₹)",
+  "allocateCowFeedBtn": "गाय-खुराक वाटप करा",
+
+   "checkFeedAvailability": "येथे चाऱ्याची उपलब्धता तपासा",
+  "addNewCowFeed": "गाय-खुराक जोडा",
+  "allocateCowFeed": "गाय-खुराकवाटप करा",
+
+ 
+  "selectShift": "शिफ्ट निवडा",
+
+  "milkRateLabel": "दुधाचा दर",
+  "milkRatePlaceholder": "दुधाचा दर भरा",
+  "milkLitersLabel": "दूध (लिटरमध्ये)",
+  "milkLitersPlaceholder": "लिटरमध्ये दूध भरा",
+ 
+  "failedSubmit": "डेटा सबमिट करण्यात अयशस्वी.",
+
+      "welcomeBack": "पुन्हा स्वागत आहे.",
+        "addFarmer": "शेतकरी जोडा",
+
+          "invalid_farmer_index": "अवैध शेतकरी निर्देशांक!",
+  "farmer_details": "शेतकरी तपशील",
+  "todays_all_milk_collection": "आजचे सर्व दूध संकलन",
+  "todays_all_allocated_cow_feed": "आजचा वाटप केलेला गुरांचा चारा",
+
+   "signup_heading": "नमस्कार वापरकर्ता, कृपया साइनअप फॉर्म भरा",
+ 
+  "mobile_number": "मोबाईल नंबर",
+  "email": "ईमेल आयडी",
+  "password": "पासवर्ड सेट करा",
+  "select_role": "भूमिका निवडा",
+  "dairy_owner": "डेअरी मालक",
+  "already_account": "आधीच खाते आहे?",
+  "sign_up": "साइन अप",
+  "error_try_again": "काहीतरी चूक झाली. पुन्हा प्रयत्न करा.",
+
+    "update_cowfeed_stock": "गाय-खुराक स्टॉक अपडेट करा",
+ 
+  "cowfeed_stock": "गाय-खुराकस्टॉक",
+  "cowfeed_price": "गाय-खुराक किंमत",
+
+   
+  "otp": "ओटीपी",
+  "send_otp": "ओटीपी पाठवा",
+ 
+  "close": "बंद करा",
+
+  
+  "forgot_password": "पासवर्ड विसरलात?",
+  
+  "or": "किंवा",
+  "login_with_otp": "ओटीपी द्वारे लॉगिन करा",
+
+   "todays_cowfeed": "आजचे सर्व गाय-खुराक",
+
+
+  
+  "fromDateLabel": "सुरवातीची तारीख",
+  "toDateLabel": "समाप्तीची तारीख",
+  "makeTransactionBill": "व्यवहार बिल तयार करा",
+  "makePaymentBtn": "भरणा करा",
+  "sendMailBtn": "मेल पाठवा",
+  "farmerNameLabel": "शेतकऱ्याचे नाव",
+  "transactionReport": "व्यवहार अहवाल",
+  "to": "ते",
+  "milkTransactionsLabel": "दूध व्यवहार",
+  "cowFeedTransactionsLabel": "गाय-खुराक व्यवहार",
+  "emiTransactionLabel": "ईएमआय व्यवहार",
+
+  "fatLabel": "फॅट",
+  "priceLabel": "किंमत",
+  "litersLabel": "लिटर",
+  "totalValueLabel": "एकूण किंमत",
+  "feedNameLabel": "खुराक नाव",
+  "bagsLabel": "झोपडी",
+  "installmentLabel": "किस्त",
+  "emiLabel": "ईएमआय",
+  "totalPaidLabel": "एकूण दिलेले",
+  "remainingLabel": "शिल्लक",
+  "finalTotalMilkPrice": "एकूण दूध किंमत",
+  "finalTotalCowFeedPrice": "एकूण खुराक किंमत",
+  "finalValueLabel": "अंतिम किंमत",
+   "price_according_fat": "फॅटनुसार किंमत"
+ 
+  
+  
+ 
+
+    
+   
+   
+   
+   
+    
+    
+
+  
+}

@@ -1,0 +1,228 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.card img{
+  aspect-ratio: 16/9;
+  object-fit: contain;
+}
+.card{
+  border-radius: 15px !important;
+  border: none !important;
+}
+form{
+  background-color: rgba(255, 255, 255, 0.541);
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;  
+}
+.loginForm{
+  background-color: rgba(255, 255, 255, 0.541);
+  border: none !important;
+  border-radius: 15px !important;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;  
+  z-index: 5;
+}
+.back-arrow {
+  z-index: 2;
+}
+.back-arrow:hover {
+  animation: slideArrow 0.5s ease-in-out 2;
+}
+.btn:active{
+  animation: buttonAnimation 0.5s ease-in-out 1;
+}
+/* MultiItemCarousel.css */
+/* ServicesCard.css */
+.carousel-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.card-container {
+  flex: 1 0 33.33%;
+  margin: 0 10px;
+  text-align: center;
+  transition: transform 0.5s ease, scale 0.5s ease;
+}
+
+.card-container.active {
+  transform: scale(1.1);
+}
+
+.social-img{
+  aspect-ratio: 1/1;
+  object-fit: contain;
+  height: 40px;
+  width: 40px;
+  margin: 2px;
+  padding: 5px;
+}
+.hover:hover{
+  cursor: pointer;
+}
+.card {
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #fff;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+}
+.feed-card{
+  max-width: 50rem;
+}
+
+.carousel-control {
+  background: none;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+.carousel-control.prev {
+  left: 10px;
+  color: green;
+  font-size: 55px;
+}
+
+.carousel-control.next {
+  right: 10px;
+  color: green;
+  font-size: 55px;
+}
+.gmail-logo{
+  width: 50px;
+  height: 50px;
+}
+
+@keyframes slideArrow {
+  0% {
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+  }
+  25% {
+    transform: scale(0.95) rotate(-3deg);
+    opacity: 0.8;
+  }
+  50% {
+    transform: scale(1.1) rotate(3deg);
+    opacity: 1;
+  }
+  75% {
+    transform: scale(0.98) rotate(-1deg);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+  }
+}
+@keyframes buttonAnimation {
+  0% {
+    transform: scale(0.9);
+  }
+  50% {
+    transform: scale(1.01)
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.card:hover{
+  cursor: pointer;
+  scale: 1.05;
+  transition: all ease-in-out 0.2s;
+}
+strong{
+  color: green;
+}
+#signUpImage{
+  z-index: 1;
+  opacity: 1;
+  text-align: center;
+  object-fit:contain;
+}
+#signupButton{
+  border-radius: 22px !important;
+  height: 3rem;
+}
+.checkAmountBlock{
+  width:50% !important;
+}
+
+
+@media screen and (max-width:1035px) {
+  .homeInfo{
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .mobile-login{
+    border-radius: 50% !important;
+    width: 80% !important;
+  }
+  .footer-div{
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  
+}
+@media screen and (max-width:1300px) {
+  .card{
+    width: 18rem !important;
+  }
+}
+
+@media screen and (max-width:400px) {
+  
+  .card{
+    width: 18rem !important;
+  }
+  form{
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+}
+@media screen and (max-width:670px) {
+  
+  .checkAmountBlock{
+    width:100% !important;
+  }
+}
+
+@media screen and (max-width:800px) {
+  .update-body, .update-button{
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  .loginImageContainer{
+    display: none;
+  }
+  
+}
