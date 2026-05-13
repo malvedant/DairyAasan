@@ -1,0 +1,13 @@
+Dairy_FE/node_modules
+Dairy_BE/node_modules
+
+Dairy_FE/build
+Dairy_BE/build
+
+.env
+.env.local
+
+dist
+coverage
+
+*.log
